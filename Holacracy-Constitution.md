@@ -1,7 +1,7 @@
-#**Holacracy Constitution - Development Version**
+# **Holacracy Constitution - Development Version**
 
 
-##Preamble
+## Preamble
 
 This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
 
@@ -142,7 +142,7 @@ The Lead Link of a Circle may specially appoint additional persons to serve as C
 
 ### 2.4 Role Assignment
 
-The Lead Link of a Circle may assign people to fill Defined Roles in the Circle, unless that authority has been limited or delegated.
+The Lead Link of a Circle may assign people to fill Defined Roles in the Circle and revoke these assignments at any time, unless these authorities have been limited or delegated.
 
 #### 2.4.1 Unfilled Roles
 
@@ -447,7 +447,7 @@ Whenever an authorized party declares a Process Breakdown within a Circle, the f
 
 - **(a)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
 - **(b)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
-- **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Tensions or Objections within the Circle’s Governance Process.
+- **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Proposals or Objections within the Circle’s Governance Process.
 
 These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle.
 
